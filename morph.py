@@ -1,3 +1,5 @@
+# Copyright 2022 Ilkin Mammadli
+
 import argparse
 
 parser = argparse.ArgumentParser(description='Morph CLI')
